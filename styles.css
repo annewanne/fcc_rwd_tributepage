@@ -1,0 +1,41 @@
+#main {
+   text-align: center;
+   background-color: #bbb;
+   padding: 15px 0;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-div {
+    background-color: goldenrod;
+    padding: 20px 0;
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 2px solid #777;
+}
+
+#img-caption {
+    margin: 10px 10px 0 10px;
+}
+
+#tribute-info p {
+    text-align: justify;
+}
+#tribute-info {
+    margin: 0 25px;
+}
+
+ul { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: left;
+}
